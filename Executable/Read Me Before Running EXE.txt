@@ -1,3 +1,0 @@
-Shows the process of the singleton, when the instance of the two objects Player and bell collides it shoots.
-
-It's not what was informed to do, but a show of my capabilities. There's no other action available in this excecutable. 
